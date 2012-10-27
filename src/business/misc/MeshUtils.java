@@ -1,7 +1,7 @@
 package business.misc;
 
 import business.hull.Hull;
-import business.hull.airframes.Primitive;
+import business.hull.primitives.Primitive;
 import com.jme3.math.Vector3f;
 import java.util.ArrayList;
 

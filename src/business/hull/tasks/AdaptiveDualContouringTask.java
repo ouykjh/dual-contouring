@@ -3,7 +3,7 @@ package business.hull.tasks;
 import business.misc.OctreeNode;
 import business.misc.Vector3i;
 import business.hull.Hull;
-import business.hull.airframes.Primitive;
+import business.hull.primitives.Primitive;
 import java.util.ArrayList;
 import java.util.concurrent.RecursiveAction;
 

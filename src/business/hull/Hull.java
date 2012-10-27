@@ -3,7 +3,7 @@ package business.hull;
 import business.misc.MeshUtils;
 import business.misc.OctreeNode;
 import business.misc.Vector3i;
-import business.hull.airframes.Primitive;
+import business.hull.primitives.Primitive;
 import business.hull.tasks.AdaptiveDualContouringTask;
 import business.hull.tasks.OctreeConstructionTask;
 import com.jme3.bounding.BoundingBox;

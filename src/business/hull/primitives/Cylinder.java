@@ -1,4 +1,4 @@
-package business.hull.airframes;
+package business.hull.primitives;
 
 import com.jme3.math.FastMath;
 import com.jme3.math.Vector3f;

@@ -1,4 +1,4 @@
-package business.hull.airframes;
+package business.hull.primitives;
 
 import business.MainApplication;
 import com.jme3.material.Material;
