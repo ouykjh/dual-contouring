@@ -2,7 +2,7 @@ package business.appstates;
 
 import business.MainApplication;
 import business.hull.Hull;
-import business.hull.airframes.Primitive;
+import business.hull.primitives.Primitive;
 import business.misc.Carousel;
 import com.jme3.app.state.AbstractAppState;
 import com.jme3.app.state.AppStateManager;
